@@ -25,7 +25,7 @@ Passionate Software engineer seeking out innovative solutions to everyday proble
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [salman.murtaza.minhas@outlook.com](mailto:salman.murtaza.minhas@outlook.com)
-* 🧠  I'm learning React Native and Flutter
+* 🧠  I'm learning React Native, TypeScript and Flutter
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Batman
 * 🖥️  My projects: [Empty Land](http://salmanmurtazaminhas.github.io/Empty-land/)
