@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* ⚡  I'm Batman
 -->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 👋 My name is Salman Murtaza
@@ -27,7 +28,7 @@ Passionate Software engineer seeking out innovative solutions to everyday proble
 * ✉️  You can contact me at [salman.murtaza.minhas@outlook.com](mailto:salman.murtaza.minhas@outlook.com)
 * 🧠  I'm learning TypeScript and React Native
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm Batman
+
 * 🖥️  My projects: [Empty Land](http://salmanmurtazaminhas.github.io/Empty-land/)
 
 ### Skills
