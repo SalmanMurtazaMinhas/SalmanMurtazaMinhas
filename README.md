@@ -29,7 +29,10 @@ Passionate Software engineer seeking out innovative solutions to everyday proble
 * 🧠  I'm learning TypeScript and React Native
 * 🤝  I'm open to collaborating on Projects
 
-* 🖥️  My projects: [Empty Land](http://salmanmurtazaminhas.github.io/Empty-land/)
+* 🖥️  My projects:
+  * [Empty Land](http://salmanmurtazaminhas.github.io/Empty-land/)
+  * [Love At First Bite](https://love-at-first-bite.onrender.com)
+
 
 ### Skills
 <!--[![My Skills](https://skillicons.dev/icons?i=js,git,py,html,css,jquery,nodejs,express,react,nextjs,materialui,mongodb,postgres,django,figma,postman)](https://skillicons.dev)-->
